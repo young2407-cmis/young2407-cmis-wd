@@ -1,0 +1,13 @@
+1. Enter the class
+2. Clone by using the command 'git clone --config="http.proxy=http://young2407:yohann020326@192.168.2.1:8080" https://github.com/young2407-cmis/young2407-cmis-wd.git'
+3. Use the command 'cd young2407-cmis-wd' to select your work file
+4. Create a text file by using the command 'gedit'
+5. Name the file 'file.txt' by saving it in your repository clone file 
+6. Once saved, close the gedit
+7. Add by using the command 'git add file.txt'
+8. Add a message/commit by using the command 'git commit -m "Created a file.txt file." '
+9. Send the data to github.com by using the command 'git push'
+10. Enter the username/id for github.com
+11. Enter the password for github.com
+12. Leave the class
+
