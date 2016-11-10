@@ -1,0 +1,32 @@
+git clone --config="http.proxy=http://young2407:yohann020326@192.168.2.1:8080" https://github.com/young2407-cmis/young2407-cmis-wd.git
+
+ls <directory name>:  List contents of a directory
+cd: Go home.
+cd <directory name>:  Change directory
+cd ..: Go up
+cat <file name>: View the contents of a file
+gedit <file name> &
+python -m SimpleHTTPServer - Start the development server
+
+git clone --config="http.proxy=http://uname:pword@192.168.2.1:8080" http://url-to-your-repo
+git add <file name>
+git commit -m "Commit Comment"
+git push
+
+sftp username@cmis-hsteacher 
+ls - same as terminal
+cd - same as terminal
+prepend a command with ! to execute it on local
+put <filename> - upload a file
+get <filename> - download a file
+
+sftp - connect to the server host
+!ls - View files in the repository server sftp is run on
+put - transfer files from !ls to the sftp server host
+
+sftp username@cmis-hsteacher 
+ls - same as terminal
+cd - same as terminal
+prepend a command with ! to execute it on local
+put <filename> - upload a file
+get <filename> - download a file
