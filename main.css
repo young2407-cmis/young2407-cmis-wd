@@ -1,11 +1,26 @@
-html {
-	color:navy;
-	font-size:25px;
-	background-color:gray;
+html { 
+background-color:#D7D8D8;
+background:linear-gradient(-90deg,navy,aqua)
 }
+	
 h1{ 
+background-color:gray;
+background:linear-gradient(black,gray);
+border-style:ridge;
+border-width:10px 10px 10px 10px;
+border-color:white;
 color:gold;
-font-size:30px;
-background-color:gray
-border-color:aqua;
+text-align:center;
+letter-spacing:4px;
+font-size:40px;
+font-weight:bold;
+font-style:normal;
+font-variant:small-caps;
+font-family:"Comic Sans MS";cursive,sans-serif
+
+}
+
+h2{ 
+color:black;
+
 }
