@@ -1,26 +1,39 @@
 html { 
 background-color:#D7D8D8;
 background:linear-gradient(-90deg,navy,aqua)
+background-image:url("http://wallpapercave.com/wp/jA8JqcX.jpg");
 }
 	
-h1{ 
+	h1{ 
+		background-color:gray;
+		background:linear-gradient(gray,white);
+		background-image:url("http://wallpapercave.com/wp/jA8JqcX.jpg");
+		border-style:outset;
+		border-width:10px 10px 10px 10px;
+		border-color:white;
+		color:gold;
+		text-align:center;
+		letter-spacing:4px;
+		font-size:40px;
+		font-weight:bold;
+		font-style:normal;
+		font-variant:small-caps;
+		font-family:"Impact";cursive,sans-serif;
+		text-shadow: 3px 3px 4px black;
+	}	
+h2{ 
 background-color:gray;
-background:linear-gradient(black,gray);
+background:linear-gradient(gray,white);
 border-style:ridge;
-border-width:10px 10px 10px 10px;
+border-width:3px 3px 3px 3px;
 border-color:white;
 color:gold;
 text-align:center;
-letter-spacing:4px;
-font-size:40px;
+letter-spacing:2px;
+font-size:25px;
 font-weight:bold;
 font-style:normal;
 font-variant:small-caps;
-font-family:"Comic Sans MS";cursive,sans-serif
-
-}
-
-h2{ 
-color:black;
-
+font-family:"Impact";cursive,sans-serif;
+text-shadow: 3px 3px 4px black;
 }
