@@ -1,7 +1,7 @@
-html { 
+html{ 
 background-color:#D7D8D8;
-background:linear-gradient(-90deg,navy,aqua)
-background-image:url("http://wallpapercave.com/wp/jA8JqcX.jpg");
+background-image:url("http://kingofwallpapers.com/flat-wallpaper/flat-wallpaper-006.jpg");
+opacity:1
 }
 	
 	h1{ 
@@ -14,26 +14,62 @@ background-image:url("http://wallpapercave.com/wp/jA8JqcX.jpg");
 		color:gold;
 		text-align:center;
 		letter-spacing:4px;
-		font-size:40px;
+		font-size:45px;
 		font-weight:bold;
 		font-style:normal;
 		font-variant:small-caps;
 		font-family:"Impact";cursive,sans-serif;
 		text-shadow: 3px 3px 4px black;
+		padding: 20px 3px 20px 3px;
+		outline-style: solid;
+ 		outline-color: gray;	
+		height:70%;
+		width:40%;
+		transform:translate(70%,10%);
+		
+						
 	}	
-h2{ 
-background-color:gray;
-background:linear-gradient(gray,white);
-border-style:ridge;
-border-width:3px 3px 3px 3px;
-border-color:white;
-color:gold;
-text-align:center;
-letter-spacing:2px;
-font-size:25px;
-font-weight:bold;
-font-style:normal;
-font-variant:small-caps;
-font-family:"Impact";cursive,sans-serif;
-text-shadow: 3px 3px 4px black;
+	h2{ 
+		background-color:gray;
+		background:linear-gradient(gray,white);
+		border-style:ridge;
+		border-width:3px 3px 3px 3px;
+		border-color:white;
+		color:gold;
+		text-align:center;
+		letter-spacing:2px;
+		font-size:35px;
+		font-weight:bold;
+		font-style:normal;
+		font-variant:small-caps;
+		font-family:"Impact";cursive,sans-serif;
+		text-shadow: 3px 3px 4px black;
+		padding: 20px 3px 20px 3px;
+		outline-style: solid;
+ 		outline-color: gray;			
+		height:70%;
+		width:200px;
+		transform:translate(330%);
+	}
+	p{
+		background-color:gray;
+		background:linear-gradient(gray,white);
+		border-style:ridge;
+		border-width:3px 3px 3px 3px;
+		border-color:white;
+		color:gold;
+		text-align:center;
+		letter-spacing:2px;
+		font-size:35px;
+		font-weight:bold;
+		font-style:normal;
+		font-variant:small-caps;
+		font-family:"Impact";cursive,sans-serif;
+		text-shadow: 3px 3px 4px black;
+		padding: 20px 3px 20px 3px;
+		outline-style: solid;
+ 		outline-color: gray;			
+		height:70%;
+		width:1000px;
+		transform:translate(30%);
 }
