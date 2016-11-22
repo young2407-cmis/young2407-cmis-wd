@@ -1,4 +1,4 @@
-html{ 
+html{
 background-color:#D7D8D8;
 background-image:url("http://kingofwallpapers.com/flat-wallpaper/flat-wallpaper-006.jpg");
 opacity:1
@@ -18,7 +18,7 @@ opacity:1
 		font-weight:bold;
 		font-style:normal;
 		font-variant:small-caps;
-		font-family:"Impact";cursive,sans-serif;
+		font-family:"Impact",sans-serif;
 		text-shadow: 3px 3px 4px black;
 		padding: 20px 3px 20px 3px;
 		outline-style: solid;
@@ -42,7 +42,7 @@ opacity:1
 		font-weight:bold;
 		font-style:normal;
 		font-variant:small-caps;
-		font-family:"Impact";cursive,sans-serif;
+		font-family:"Impact",sans-serif;
 		text-shadow: 3px 3px 4px black;
 		padding: 20px 3px 20px 3px;
 		outline-style: solid;
@@ -64,12 +64,35 @@ opacity:1
 		font-weight:bold;
 		font-style:normal;
 		font-variant:small-caps;
-		font-family:"Impact";cursive,sans-serif;
+		font-family:"Impact",sans-serif;
 		text-shadow: 3px 3px 4px black;
 		padding: 20px 3px 20px 3px;
 		outline-style: solid;
  		outline-color: gray;			
-		height:70%;
+		height:50%;
 		width:1000px;
 		transform:translate(30%);
-}
+	}
+
+/*I learned the image property with url and the transform translate property from Ryan and Joshua.
+		background-color:gray;
+		background:linear-gradient
+		background-image:url
+		border-style
+		border-width
+		border-color
+		color:gold
+		text-align:center
+		letter-spacing:4px
+		font-size:45px
+		font-weight:bold
+		font-style:normal
+		font-variant:small-caps
+		font-family:
+		text-shadow: 
+		padding: 
+		outline-style:
+ 		outline-color:	
+		height:
+		width:
+		transform:translate*/
