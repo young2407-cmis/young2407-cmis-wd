@@ -1,0 +1,43 @@
+html{
+	background-color:pink;
+	font-family:Charcoal, sans-serif;
+	border-left:15px dashed red;	
+}
+	header{
+		border-bottom: double 10px black;	
+		font-family:Impact, Charcoal, sans-serif;
+		background-color: cyan;
+		font-style:italic;
+	}
+
+		h1{
+		background-color:cyan;
+		font-weight:normal;
+		font-style:normal;	
+		font-size: 40px;
+		font-family:Impact, Charcoal,sans-serif;
+		color:red;
+		border-bottom: 20px double black;
+		padding-bottom: 10px;
+		}
+		p{
+		font-size:10px;
+		color:blue;
+		border-bottom: 1px solid black;
+		border-top: 1px dashed red;
+		}
+		h2{ 
+		color:white;
+		background-color:blue;
+		}
+		h3{
+		color:white;
+		background-color:blue;
+		}
+		h4{
+		border-left:40px groove red ;
+		border-right:1200px groove red
+		}
+		
+		
+		
