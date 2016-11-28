@@ -1,0 +1,98 @@
+html{
+background-color:#D7D8D8;
+background-image:url("http://kingofwallpapers.com/flat-wallpaper/flat-wallpaper-006.jpg");
+opacity:1
+}
+	header{
+			background-color:gray;
+			background:linear-gradient(gray,white);
+			background-image:url("http://wallpapercave.com/wp/jA8JqcX.jpg");
+			border-style:outset;
+			border-width:2px 2px 2px 2px;
+			border-color:white;
+			color:gold;
+			text-align:center;
+			letter-spacing:4px;
+			font-size:20px;
+			font-weight:bold;
+			font-style:normal;
+			font-variant:small-caps;
+			font-family:"Impact",sans-serif;
+			text-shadow: 3px 3px 4px black;
+			padding: 0px 3px 0px 7px;
+			outline-style: solid;
+ 			outline-color: gray;	
+			height:99%;
+			width:99%;
+				
+	}
+	nav{
+	}
+	main{
+			background-color:gray;
+			background:linear-gradient(gray,white);
+			border-style:ridge;
+			border-width:3px 3px 3px 3px;
+			border-color:white;
+			color:gold;
+			text-align:center;
+			letter-spacing:2px;
+			font-size:15px;
+			font-weight:bold;
+			font-style:normal;
+			font-variant:small-caps;
+			font-family:"Impact",sans-serif;
+			text-shadow: 3px 3px 4px black;
+			padding: 0px 3px 0px 0px;
+			outline-style: solid;
+ 			outline-color: gray;			
+			height:40%;
+			width:100%;
+	}
+	footer{
+		p{
+			background-color:gray;
+			background:linear-gradient(gray,white);
+			border-style:ridge;
+			border-width:3px 3px 3px 3px;
+			border-color:white;
+			color:gold;
+			text-align:center;
+			letter-spacing:2px;
+			font-size:35px;
+			font-weight:bold;
+			font-style:normal;
+			font-variant:small-caps;
+			font-family:"Impact",sans-serif;
+			text-shadow: 3px 3px 4px black;
+			padding: 20px 3px 20px 3px;
+			outline-style: solid;
+ 			outline-color: gray;			
+			height:50%;
+			width:1000px;
+			transform:translate(30%);
+			}
+	}
+
+/*I learned the image property with url and the transform translate property from Ryan and Joshua.
+		background-color:gray;
+		background:linear-gradient
+		background-image:url
+		border-style
+		border-width
+		border-color
+		color:gold
+		text-align:center
+		letter-spacing:4px
+		font-size:45px
+		font-weight:bold
+		font-style:normal
+		font-variant:small-caps
+		font-family:
+		text-shadow: 
+		padding: 
+		outline-style:
+ 		outline-color:	
+		height:
+		width:
+		transform:translate*/
