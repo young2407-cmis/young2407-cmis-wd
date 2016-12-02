@@ -1,0 +1,88 @@
+html{
+	font-size:8pt;
+	background-color:red;	
+	width:50%;
+	margin:auto;
+}
+
+body{		
+}
+
+nav{	
+	color:yellow;
+	text-decoration: line-through;
+}
+header {
+	background-color:blue;
+	font-family:"Arial Black", Gadget, sans-serif;
+	font-weight:bold;
+}
+header h1{
+	border-left:yellow solid 30px;
+}
+header p{
+	color:white;
+	font-weight:lighter;
+	font-size:20px;
+}
+
+main {
+	background-color:white;
+	font-weight:200;
+}
+main h2{
+	width:70%;
+	margin:auto;
+	border-right:green solid 120px;
+	font-size:25px;
+	font-family:"Lucida Console", Monaco, monospace;
+	padding-right:-20px;
+}
+main p{
+	width:70%;
+	margin:auto;
+	font-family:Georgia, serif;
+	font-size:15px;
+	text-decoration: underline;
+	padding-top:20px;
+}
+main ol{
+	width:70%;
+	margin:auto;
+	padding-top:20px;
+	font-size:15px;
+	text-decoration:underline overline ;
+}
+main ul{
+	width:70%;
+	margin:auto;
+	padding-top:20px;
+	font-size:15px;
+	text-decoration: line-through;
+}
+footer {
+	background-color:blue;
+	font-size:15px;
+	color:white;
+}
+h1 {
+	font-family:font-family:"Arial Black", Gadget, sans-serif;;
+	font-size:500%;
+	color:yellow;
+	
+}
+h2, h3 {
+	color:black;
+	font-family:"Arial Black", Gadget, sans-serif;
+}
+h3 {
+	font-family:sans-serif;
+}
+h4{
+	border-left:ridge red 30px;
+	border-right:groove red 800px;
+}
+p{
+	color:f#000000;
+	font-weight:normal;
+}
