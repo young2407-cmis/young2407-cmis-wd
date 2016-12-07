@@ -1,2 +1,15 @@
-header{
+html{ 
+	background-color: #4198B7;
+	font-family:"Comic Sans MS", cursive, sans-serif;
 }
+body{ 
+	background-color:#DFD0D0;
+	width:70%;
+	margin:auto;
+}
+header, nav{ 
+	text-align: left;
+	border: 10px outset silver;
+}
+
+
