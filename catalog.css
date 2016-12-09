@@ -1,15 +1,45 @@
 html{ 
 	background-color: #4198B7;
 	font-family:"Comic Sans MS", cursive, sans-serif;
+	color: gold;
+	background-image:url("http://kingofwallpapers.com/flat-wallpaper/flat-wallpaper-006.jpg");
 }
 body{ 
-	background-color:#DFD0D0;
+	background-color:gray;
 	width:70%;
 	margin:auto;
+	border: 10px ridge white;
 }
 header, nav{ 
 	text-align: left;
-	border: 10px outset silver;
+	border: 10px ridge white;
 }
 
-
+article{ 
+border: 10px ridge white;
+text-align: left;
+}
+h1{
+font-family:Impact, Charcoal, sans-serif;
+	font-size:2cm;
+	text-shadow: 6px 6px black;
+}
+h3{ 
+	font-size: 1cm;
+	color:navy;
+}
+h3{ 
+	background-color: white;
+}
+ul{
+	list-style-position:inside;
+}
+img{ 
+	width:200px;
+	height:200px;
+}
+article p{
+	 text-decoration: underline;
+}
+footer{
+	padding-bottom:2px;
