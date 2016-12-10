@@ -1,23 +1,28 @@
+<style>
 html{ 
-	background-color: #4198B7;
+  background-color: gray;
 	font-family:"Comic Sans MS", cursive, sans-serif;
 	color: gold;
-	background-image:url("http://kingofwallpapers.com/flat-wallpaper/flat-wallpaper-006.jpg");
+  background-image:url("https://brewers-retail-cdn.scdn5.secure.raxcdn.com/shared-assets/images/products/051914full.jpg");
 }
 body{ 
-	background-color:gray;
+	background-color:White;
 	width:70%;
 	margin:auto;
-	border: 10px ridge white;
 }
-header, nav{ 
+header, nav, main{ 
 	text-align: left;
-	border: 10px ridge white;
+  background-image:url("https://brewers-retail-cdn.scdn5.secure.raxcdn.com/shared-assets/images/products/051914full.jpg");
+  border: 10px ridge;
+}
+header p, main h2, main p{
+  text-shadow: 2px 2px black;
 }
 
 article{ 
 border: 10px ridge white;
 text-align: left;
+background-color:darkgray;
 }
 h1{
 font-family:Impact, Charcoal, sans-serif;
@@ -43,3 +48,4 @@ article p{
 }
 footer{
 	padding-bottom:2px;
+  </style>
