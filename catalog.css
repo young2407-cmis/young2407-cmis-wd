@@ -1,13 +1,13 @@
-<style>
+
 html{ 
-  background-color: gray;
+ 	 background-color: gray;
 	font-family:"Comic Sans MS", cursive, sans-serif;
-	color: gold;
+color: gold;
   background-image:url("https://brewers-retail-cdn.scdn5.secure.raxcdn.com/shared-assets/images/products/051914full.jpg");
 }
 body{ 
 	background-color:White;
-	width:70%;
+	width:1100px;
 	margin:auto;
 }
 header, nav, main{ 
@@ -40,12 +40,22 @@ ul{
 	list-style-position:inside;
 }
 img{ 
-	width:200px;
-	height:200px;
+	width:500px;
+	height:500px;
 }
 article p{
 	 text-decoration: underline;
 }
+article img{
+float:left;
+padding:10px 40px 10px 10px;
+}
+article{ 
+width:1060px;
+height:700px;
+margin:auto;
+}
+
 footer{
 	padding-bottom:2px;
-  </style>
+}
